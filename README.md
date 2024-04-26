@@ -3,6 +3,9 @@
 
 This is a simple React application for a food delivery service.
 
+![Copy of Minimalist Neutral Multi Device Computer Mockup Website Launch Instagram Post](https://github.com/fahad0samara/react-food-app/assets/90055525/bc6dbccb-f395-4b42-b8ad-0d8884a3c6e3)
+
+
 ## Features
 
 - **Home Page:** Provides information about the food delivery service, with the option to place an order.
